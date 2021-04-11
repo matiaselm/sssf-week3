@@ -1,5 +1,5 @@
 'use strict';
-import Station from '../models/station.js';
+import Station from '../models/Stations.js';
 
 export default {
     Query: {

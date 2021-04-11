@@ -1,5 +1,5 @@
 'use strict';
-import Connection from '../models/connection.js';
+import Connection from '../models/Connections.js';
 
 export default {
   Station: {

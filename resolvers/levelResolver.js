@@ -1,5 +1,5 @@
 'use strict';
-import Level from '../models/level.js';
+import Level from '../models/Levels.js';
 
 export default {
   Connection: {

@@ -1,5 +1,5 @@
 'use strict';
-import ConnectionType from "../models/connectionType.js";
+import ConnectionType from "../models/ConnectionTypes.js";
 
 export default {
     Query: {

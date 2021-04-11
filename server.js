@@ -29,7 +29,7 @@ let time = currentDate.getHours() + ":" + currentDate.getMinutes();
     server.applyMiddleware({app});
 
     app.listen({port: 3000}, () =>
-        console.log(`[${time}] Server ready at ${process.env.DB_URL}`),);
+        console.log(`[${time}] Server ready at localhost:3000`),);
   } catch (e) {
     console.log('server error: ' + e.message);
   }

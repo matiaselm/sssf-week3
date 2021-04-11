@@ -1,5 +1,5 @@
 'use strict';
-import CurrentType from "../models/currentType.js";
+import CurrentType from "../models/CurrentTypes.js";
 
 export default {
     Query: {
