@@ -1,4 +1,4 @@
-# sssf-node-exercise - chargemap with graphql
+# sssf-week3 - chargemap with graphql
 
 [Deployed GraphQL interface here](http://first-node-env.jelastic.metropolia.fi/graphql)
 
